@@ -9,5 +9,4 @@
 
 ## 🌐 Live Demo  
 (https://bistjyoti.github.io/DineAtDoor/)
-(https://bistjyoti.github.io/focusflow/)
 
