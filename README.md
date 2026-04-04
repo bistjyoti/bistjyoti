@@ -1,8 +1,7 @@
 # Hi, I'm Jyoti Bist 👋
 
 ### Creative Frontend Developer | Problem Solver 
-[![Views](https://img.shields.io/badge/Profile_Views-Click%20To%20Update-lightgrey?style=social)](https://github.com/bistjyoti) 
-[![Followers](https://img.shields.io/github/followers/bistjyoti?label=Followers&style=social)](https://github.com/bistjyoti?tab=followers)
+![Views](https://count.getloli.com/get/@bistjyoti?theme=rule34) [![Followers](https://img.shields.io/github/followers/bistjyoti?label=Followers&style=social)](https://github.com/bistjyoti?tab=followers)
 
 ## 🚀 About Me
 - 🎓 **Education:** Pursuing B.Tech in CSE (Final Year) at Roorkee Institute of Technology.
