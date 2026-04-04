@@ -33,8 +33,6 @@
 
 ## 📊 My Analytics
 <p align="left">
-  <a href="https://github.com/bistjyoti?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bistjyoti&show_icons=true&theme=radical&hide_border=true" />
-  </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bistjyoti&layout=compact&theme=radical&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bistjyoti&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bistjyoti&layout=compact&theme=radical&hide_border=true" />
 </p>
