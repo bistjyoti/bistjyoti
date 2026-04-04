@@ -2,9 +2,8 @@
 
 ### Creative Frontend Developer | Problem Solver 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbistjyoti&count_bg=%23FF00EA&title_bg=%23555555&icon=&icon_color=%2300FFFF&title=Views&edge_flat=false)
+![Profile Views](https://img.shields.io/badge/Profile_Views-100%2B-ff00ea?style=for-the-badge&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/github/followers/bistjyoti?label=Followers&style=social)
-
 ## 🚀 About Me
 - 🎓 **Education:** Pursuing B.Tech in CSE (Final Year) at Roorkee Institute of Technology.
 - 🌱 **Learning:** Deep diving into React, advanced JavaScript, and immersive 3D web experiences.
