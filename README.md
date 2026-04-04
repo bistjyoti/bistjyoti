@@ -21,7 +21,7 @@
 🎬 [Jio-Hotstar Clone Live](https://jio-hotstar-clone-tau.vercel.app)
 
 ## 📊 My GitHub Stats
-![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bistjyoti&show_icons=true&theme=radical&hide_border=true)
+[![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bistjyoti&show_icons=true&theme=radical&hide_border=true)](https://github.com/bistjyoti?tab=repositories)
 
 ## 💻 Tech Stack
 **Frontend:** HTML5, CSS3, JavaScript, React.js (Learning)
