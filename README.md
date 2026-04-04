@@ -1,7 +1,7 @@
 # Hi, I'm Jyoti Bist 👋
 
 ### Creative Frontend Developer | Problem Solver 
-![Views](https://komarev.com/normal-badge/?username=bistjyoti&color=ff00ea&style=social) 
+![Views](https://img.shields.io/badge/Profile_Views-Live-ff00ea?style=social) 
 ![Followers](https://img.shields.io/github/followers/bistjyoti?label=Followers&style=social)
 
 ## 🚀 About Me
