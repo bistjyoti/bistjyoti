@@ -2,7 +2,7 @@
 
 ### Creative Frontend Developer | Problem Solver 
 
-![Profile Views](https://komarev.com/normal-badge/?username=bistjyoti&color=ff00ea)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbistjyoti&count_bg=%23FF00EA&title_bg=%23555555&icon=&icon_color=%2300FFFF&title=Views&edge_flat=false)
 ![Followers](https://img.shields.io/github/followers/bistjyoti?label=Followers&style=social)
 
 ## 🚀 About Me
