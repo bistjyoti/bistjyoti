@@ -11,10 +11,17 @@
 
 ## 🔗 Connect With Me
 - 🌐 [My Portfolio Site](https://bistjyoti.github.io/my_portfolio/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/jyoti-bist-972604254)
+- 🐙 [GitHub Profile](https://github.com/bistjyoti)
 - 📧 [bistjyoti64@gmail.com](mailto:bistjyoti64@gmail.com)
 
 ## 🌐 Live Project Demo  
 🍔 Check out my live project: [DineAtDoor Live](https://bistjyoti.github.io/DineAtDoor/)
+✨ [My 3D Portfolio Live](https://my-3d-portfolio-taupe.vercel.app)
+🎬 [Jio-Hotstar Clone Live](https://jio-hotstar-clone-tau.vercel.app)
+
+## 📊 My GitHub Stats
+![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bistjyoti&show_icons=true&theme=radical&hide_border=true)
 
 ## 💻 Tech Stack
 **Frontend:** HTML5, CSS3, JavaScript, React.js (Learning)
