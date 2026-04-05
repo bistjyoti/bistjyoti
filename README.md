@@ -81,6 +81,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bistjyoti&theme=radical&bg_color=0b0b14&hide_border=true" width="100%" />
   
   <br/> <br/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/bistjyoti/bistjyoti@output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+<img src="https://raw.githubusercontent.com/bistjyoti/bistjyoti/main/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 </div>
