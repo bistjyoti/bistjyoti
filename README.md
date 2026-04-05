@@ -2,7 +2,10 @@
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22A5F1&center=false&width=435&lines=Creative+Frontend+Developer;Problem+Solver;Three.js+Explorer" alt="Typing SVG" />
 
-![Views](https://count.getloli.com/get/@bistjyoti?theme=rule34) [![Followers](https://img.shields.io/github/followers/bistjyoti?label=Followers&style=social)](https://github.com/bistjyoti?tab=followers)
+<div align="center">
+  <img src="https://count.getloli.com/get/@bistjyoti?theme=rule34" alt="Views" />
+  <a href="https://github.com/bistjyoti?tab=followers"><img src="https://img.shields.io/github/followers/bistjyoti?label=Followers&style=social" alt="Followers" /></a>
+</div>
 
 ## 🚀 About Me
 - 🎓 **Education:** Pursuing B.Tech in CSE (Final Year) at Roorkee Institute of Technology.
@@ -55,8 +58,29 @@
 
 ---
 
-## 📊 My Analytics
-<p align="left">
+## 🔥 📊 My Heavy Analytics & Activity 
+
+<div align="center">
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bistjyoti&show_icons=true&theme=radical&hide_border=true" />
+  
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=bistjyoti&theme=radical&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bistjyoti&layout=compact&theme=radical&hide_border=true" />
-</p>
+  
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bistjyoti&theme=radical" />
+</div>
+
+---
+
+## 🐍 My Contribution Snake
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bistjyoti&theme=radical&bg_color=0b0b14&hide_border=true" width="100%" />
+  
+  <br/> <br/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/bistjyoti/bistjyoti@output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+</div>
