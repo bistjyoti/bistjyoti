@@ -1,6 +1,6 @@
 # Hi, I'm Jyoti Bist 👋
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22A5F1&center=false&width=435&lines=Creative+Frontend+Developer;Problem+Solver;Three.js+Explorer" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22A5F1&center=false&width=435&lines=Creative+MERN Stack+Developer;Problem+Solver;Three.js+Explorer" alt="Typing SVG" />
 
 <div align="center">
   <img src="https://count.getloli.com/get/@bistjyoti?theme=rule34" alt="Views" />
